@@ -2,6 +2,7 @@
 node = "20.11.1"
 npm = "10.2.4"
 python = "3.11.7"
+pnpm = "8.15.4"
 
 [env]
 NODE_ENV = "development"
